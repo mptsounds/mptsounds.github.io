@@ -1,7 +1,7 @@
-# README: Documenting tecnical details of my blogging journey
+# Technical details & goals of my blogging journey
 *This is a work in progress.*
 
-## Notes:
+## Notes: (to turn into Projects tasks)
 - For now, only published page is /docs/README.
 - The goal's to make a proper multi-page blog where all published entries are in /docs.
 - Try to utilise Command Prompt/Terminal as much as possible rather than relying on GitHub UI.
@@ -9,7 +9,7 @@
 - Add basic protection from data scraping tools
 - Consider hosting a separate page or subdomain for each seemingly "career-unrelated" hobby.
 
-## How I set up this site (initially):
+## How I set up this site:
 ### First post:
 - Created repository: mptsounds.github.io
 - Added a /docs/README.md (this creates a subfolder named `docs` and README.md underneath it)
