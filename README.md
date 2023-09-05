@@ -1,5 +1,5 @@
 # README: Documenting tecnical details of my blogging journey
-* This is a work in progress.*
+*This is a work in progress.*
 
 ## Notes:
 - For now, only published page is /docs/README.
@@ -12,9 +12,13 @@
 ## How I set up this site (initially):
 ### First post:
 - Created repository: mptsounds.github.io
-- Added a /docs/README.md (this creates a subfolder named 'docs' and README.md underneath it)
+- Added a /docs/README.md (this creates a subfolder named `docs` and README.md underneath it)
 - In the repo, went to Settings >> Pages (see dropdown on the left) >> under Branch, choose /docs >> Save >> Check puplished blog which is https://mptsounds.github.io/
 <img width="514" alt="image" src="https://github.com/mptsounds/mptsounds.github.io/assets/124775093/4976d855-2c76-48e2-af2a-332813253aff">
+
 ### Setting up a theme:
-- Inside /docs folder, added _config.yml to define a theme (in this case 'minima')
+- Inside /docs folder, added _config.yml to define a theme (in this case `minima`)
 - Chose a proper theme by browsing: https://jekyllthemes.io/free
+
+## Resources:
+- Markdown documentation: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
